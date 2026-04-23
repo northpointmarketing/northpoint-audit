@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/audit.js": {
+      "maxDuration": 60
+    }
+  }
+}
